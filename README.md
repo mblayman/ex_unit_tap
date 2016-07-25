@@ -1,6 +1,7 @@
 # ExUnitTap
 
-**TODO: Add description**
+An ExUnit formatter that produces [Test Anything Protocol](http://testanything.org/)
+(TAP) output.
 
 ## Installation
 
